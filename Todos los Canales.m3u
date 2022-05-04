@@ -1,0 +1,820 @@
+# Lista#EXTM3U
+#EXTINF:0,ECUADOR | TC TELEVISION FHD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/165977
+#EXTINF:0,ECUADOR | TC TELEVISIÓN
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/186594
+#EXTINF:0,ECUADOR | RTS HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/132557
+#EXTINF:0,ECUADOR | RTS
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/239139
+#EXTINF:0,ECUADOR | ECUAVISA HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/199577
+#EXTINF:0,ECUADOR | ECUAVISA
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/245647
+#EXTINF:0,ECUADOR | TELEAMAZONAS (quito)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/132564
+#EXTINF:0,ECUADOR | TELEAMAZONAS (guayaquil)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/191519
+#EXTINF:0,ECUADOR | TVC TELEVICENTRO 
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/206848
+#EXTINF:0,ECUADOR | OROMAR TV FHD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/132562
+#EXTINF:0,ECUADOR | GAMAVISION HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/132566
+#EXTINF:0,ECUADOR | ECUADOR TV
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/166895
+#EXTINF:0,ECUADOR | CANELA TV 
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/174542
+#EXTINF:0,ECUADOR | GOL TV HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/246192
+#EXTINF:0,ECUADOR | EL CANAL DEL FUTBOL  FHD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/246178
+#EXTINF:0,ECUADOR  | EL CANAL DEL FUTBOL HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/246179
+#EXTINF:0,ECUADOR | GOL TV
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/261920
+#EXTINF:0,DEPORTE | BEIN SPORTS
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/5000
+#EXTINF:0,DEPORTE | BEIN SPORTS Opc-2
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/169956
+#EXTINF:0,DEPORTE | WIN SPORTS + 
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/169953
+#EXTINF:0,DEPORTE | WIN SPORTS HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/186598
+#EXTINF:0,DEPORTE | MLB HD 
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/174898
+#EXTINF:0,DEPORTE | FORMULA 1  
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/5250
+#EXTINF:0,DEPORTE | TUDN
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/62693
+#EXTINF:0,DEPORTE | UNIVISION TDN
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/50969
+#EXTINF:0,DEPORTE | NBA HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/173931
+#EXTINF:0,DEPORTE | FOX SPORTS 1 HD sur
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/245937
+#EXTINF:0,DEPORTE | FOX SPORTS 2 HD sur
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/169951
+#EXTINF:0,DEPORTE | FOX SPORTS 3 HD sur 
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/169957
+#EXTINF:0,DEPORTE | FOX SPORTS PREMIUM
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/173927
+#EXTINF:0,DEPORTE | FOX SPORTS 1 MX HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/103392
+#EXTINF:0,DEPORTE | FOX SPORTS 2 MX HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/194787
+#EXTINF:0,DEPORTE | ESPN 1 FHD 
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/173926
+#EXTINF:0,DEPORTE | ESPN 1 HD arg
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/174895
+#EXTINF:0,DEPORTE | ESPN 2 HD chi
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/175663
+#EXTINF:0,DEPORTE | ESPN 2 HD col
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/174776
+#EXTINF:0,DEPORTE | ESPN 2 HD arg
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/175659
+#EXTINF:0,DEPORTE | ESPN 3 HD arg
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/169894
+#EXTINF:0,DEPORTE | ESPN 3 SQ arg
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/175661
+#EXTINF:0,DEPORTE | ESPN 1 HD MX 
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/5316
+#EXTINF:0,DEPORTE | ESPN 2 HD MX 
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/5311
+#EXTINF:0,DEPORTE | ESPN 3 HD MX
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/5309
+#EXTINF:0,DEPORTE | ESPN EXTRA HD 
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/174902
+#EXTINF:0,DEPORTE | SKY SPORTS 16 HD (Liga Española)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/210278
+#EXTINF:0,DEPORTE | SKY SPORTS 24 HD ( Premier Leagua)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/210279
+#EXTINF:0,DEPORTE | CDO BASICO
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/5300
+#EXTINF:0,DEPORTE | TNT SPORTS  
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/5333
+#EXTINF:0,DEPORTE |TNT SPORTS 2 HD 
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/5299
+#EXTINF:0,DEPORTE  | TNT SPORTS 3
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/5020
+#EXTINF:0,DEPORTE | TIGO SPORTS (Bolivia)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/209061
+#EXTINF:0,DEPORTE | TIGO SPORTS (Hondura)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/237743
+#EXTINF:0,DEPORTE | TIGO SPORTS (Paraguay)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/239077
+#EXTINF:0,DEPORTE | CLARO SPORTS 
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/173736
+#EXTINF:0,DEPORTE | COPA 1 HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/5296
+#EXTINF:0,DEPORTE | COPA 2 HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/132570
+#EXTINF:0,DEPORTE | COPA + HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/4359
+#EXTINF:0,DEPORTE | SPORTV HD (Brasil)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/240630
+#EXTINF:0,DEPORTE | SPORTV 2 HD  (Brasil)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/240631
+#EXTINF:0,DEPORTE | SPORTV 3 HD  (Brasil)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/240632
+#EXTINF:0,DEPORTE  | MOVISTAR DEPORTE
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/174795
+#EXTINF:0,DEPORTE | TYC SPORTS HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/5286
+#EXTINF:0,DEPORTE | TENNIS CHANNEL 
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/173910
+#EXTINF:0,DEPORTE | FUTV HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/238321
+#EXTINF:0,DEPORTE | AFIZZIONADO
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/173741
+#EXTINF:0,DEPORTE | COMBATE 
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/239078
+#EXTINF:0,DEPORTE | WWE
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/187212
+#EXTINF:0,DEPORTE | GOLF CHANNEL
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/200956
+#EXTINF:0,DEPORTE | TD HD 
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/244966
+#EXTINF:0,DEPORTE | TD 2 HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/244967
+#EXTINF:0,LAT | DISNEY CHANNEL FHD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/240674
+#EXTINF:0,LAT | DISNEY CHANNEL
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/50153
+#EXTINF:0,LAT | DISNEY XD HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/174780
+#EXTINF:0,LAT | DISNEY JUNIOR  HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/173924
+#EXTINF:0,LAT | DISCOVERY KIDS HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/239920
+#EXTINF:0,LAT | BOOMERANG HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/240697
+#EXTINF:0,LAT | BOOMERANG
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/50115
+#EXTINF:0,LAT | CARTOON NETWORK HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/176293
+#EXTINF:0,LAT | CARTOON NETWORK 
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/5109
+#EXTINF:0,LAT | NAT GEO KIDS HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/49675
+#EXTINF:0,LAT | COCO TV 
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/239017
+#EXTINF:0,LAT | NICK HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/5103
+#EXTINF:0,LAT | NICK 2 HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/49681
+#EXTINF:0,LAT | NICK JR HQ
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/174783
+#EXTINF:0,LAT | NICK JR HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/49683
+#EXTINF:0,LAT | BABY TV 
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/5098
+#EXTINF:0,LAT | TOONCAST
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/49717
+#EXTINF:0,LAT | SEMILLITAS
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/239868
+#EXTINF:0,LAT | ZOOMOO
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/239869
+#EXTINF:0,LAT | DISNEY JUNIOR
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/50154
+#EXTINF:0,LAT | Discovery Channel HD (sur)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/191921
+#EXTINF:0,LAT | Discovery Channel 
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/4358
+#EXTINF:0,LAT | Animal Planet
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/5149
+#EXTINF:0,LAT | Investigation Discovery HD (sur)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/49659
+#EXTINF:0,LAT | Investigation Discovery
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/176478
+#EXTINF:0,LAT | Discovery home and health HD (sur)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/50147
+#EXTINF:0,LAT | Discovery home and health
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/176477
+#EXTINF:0,LAT | Discovery Turbo HD (sur)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/175653
+#EXTINF:0,LAT | Discovery Turbo
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/4352
+#EXTINF:0,LAT | Historia Channel HD (sur)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/175654
+#EXTINF:0,LAT | Historia channel
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/49655
+#EXTINF:0,Lat | Discovery TLC
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/49713
+#EXTINF:0,LAT | Discovery Theater HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/4353
+#EXTINF:0,LAT | Discovery World
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/4351
+#EXTINF:0,LAT | Discovery Science
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/4354
+#EXTINF:0,LAT | Discovery Civilization HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/4357
+#EXTINF:0,LAT | History 2
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/4318
+#EXTINF:0,LAT | Natgeo Wild HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/52056
+#EXTINF:0,LAT | National Geografhic  
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/186735
+#EXTINF:0,LAT | STAR CHANNEL
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/62674
+#EXTINF:0,LAT | HBO  HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/63425
+#EXTINF:0,LAT | HBO HD oeste 
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/245095
+#EXTINF:0,LAT | HBO 2 HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/169945
+#EXTINF:0,LAT | HBO 2 HD oeste 
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/245097
+#EXTINF:0,LAT | HBO PLUS 
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/245096
+#EXTINF:0,LAT | HBO PLUS HD oeste
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/63312
+#EXTINF:0,LAT | HBO SIGNATURE HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/63427
+#EXTINF:0,LAT | HBO FAMILY
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/62660
+#EXTINF:0,LAT | HBO POP
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/169949
+#EXTINF:0,LAT | HBO MUNDI 
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/169958
+#EXTINF:0,LAT | HBO XTREME HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/169948
+#EXTINF:0,LAT | DHE HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/237817
+#EXTINF:0,LAT | PANICO HD 
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/237816
+#EXTINF:0,LAT | FX HD 
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/169946
+#EXTINF:0,LAT | GOLDEN 
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/245270
+#EXTINF:0,LAT | GOLDEN EDGE
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/63280
+#EXTINF:0,LAT | GOLDEN PLUS
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/63423
+#EXTINF:0,LAT | GOLDEN PREMIER
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/62659
+#EXTINF:0,LAT | GOLDEN PREMIER 2
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/239140
+#EXTINF:0,LAT | DE PELICULA PLUS 
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/63315
+#EXTINF:0,34 - 543x209/www.chochotv.net/LOGO%20GRANDE%20(solo%20chocho).png" group-title="TV | Premium Channels",CINE Y SERIE | CHOCHO TV HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/245269
+#EXTINF:0,ENTRE |  TELEMUNDO 51 MIAMI
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/9324
+#EXTINF:0,ENTRE |  UNIVISION MIAMI HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/4646
+#EXTINF:0,ENTRE | UNIMAS
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/4429
+#EXTINF:0,ENTRE | MEGA TV MIAMI
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/173746
+#EXTINF:0,ENTRE | America Teve
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/246523
+#EXTINF:0,ENTRE | KAMAL D DRAMA 
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/192027
+#EXTINF:0,ENTRE | COMEDIA CENTRAL
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/54184
+#EXTINF:0,ENTRE | MTV
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/207961
+#EXTINF:0,ENTRE |  RCN TELENOVELAS
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/166226
+#EXTINF:0,ENTRE | TELEMUNDO INTERNACIONAL HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/174796
+#EXTINF:0,ENTRE | LAS ESTRELLAS HD 
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/173920
+#EXTINF:0,ENTRE | E ENTRETENIMIENTO 
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/191920
+#EXTINF:0,ENTRE |  MÁS CHIC HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/49664
+#EXTINF:0,ENTRE |  FOOD NETWORK HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/169962
+#EXTINF:0,ENTRE | DISTRITO COMEDIA HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/217191
+#EXTINF:0,ENTRE | LEFITIME HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/166233
+#EXTINF:0,ENTRE |  El GOURMET
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/4346
+#EXTINF:0,ENTRE |  GALAVISION
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/4332
+#EXTINF:0,ENTRE |  UNICABLE HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/49723
+#EXTINF:0,ENTRE | TLENOVELAS
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/49714
+#EXTINF:0,ENTRE |  TRU TV HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/49719
+#EXTINF:0,ENTRE |  PASIONES HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/49688
+#EXTINF:0,ENTRE | EWTN
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/210303
+#EXTINF:0,ENTRE | DW ESPAÑOL 
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/244965
+#EXTINF:0,Radio Machado
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/175664
+#EXTINF:0,CINE Y SERIE | A&E HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/173923
+#EXTINF:0,CINE Y SERIE | A&E 
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/5191
+#EXTINF:0,CINE Y SERIE | AXN HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/173922
+#EXTINF:0,CINE Y SERIE | AXN
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/63415
+#EXTINF:0,CINE Y SERIE | AMC  HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/5202
+#EXTINF:0,CINE Y SERIE | AMC 
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/173928
+#EXTINF:0,CINE Y SERIE | CINECANAL HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/175999
+#EXTINF:0,CINE Y SERIE | CINECANAL
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/63416
+#EXTINF:0,CINE Y SERIE | CINEMAX HD 
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/174778
+#EXTINF:0,CINE Y SERIE | DE PELICULA PLUS
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/62678
+#EXTINF:0,CINE Y SERIE | PARAMOUT HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/62653
+#EXTINF:0,CINE Y SERIE | FXM
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/62658
+#EXTINF:0,CINE Y SERIE | FX
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/62661
+#EXTINF:0,CINE Y SERIE | UNIVERSAL
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/62664
+#EXTINF:0,CINE Y SERIE | STUDIO UNIVERSAL HD 
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/173900
+#EXTINF:0,CINE Y SERIE | SONY FHD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/173981
+#EXTINF:0,CINE Y SERIE | SONY
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/62665
+#EXTINF:0,CINE Y SERIE | SPACE HD 
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/169963
+#EXTINF:0,CINE Y SERIE | SPACE
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/63431
+#EXTINF:0,CINE Y SERIE | TNT HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/63432
+#EXTINF:0,CINE Y SERIE | TNT SERIES HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/246163
+#EXTINF:0,CINE Y SERIE | WARNER CHANNEL HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/63434
+#EXTINF:0,CINE Y SERIE | SYFY
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/62656
+#EXTINF:0,CINE Y SERIE | TBS
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/62657
+#EXTINF:0,CINE Y SERIE | TCM
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/62652
+#EXTINF:0,CINE Y SERIE | A3 SERIES HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/239366
+#EXTINF:0,CINE Y SERIE | MULTIPREMIER
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/240112
+#EXTINF:0,CINE Y SERIE | FILM & ARTS HD 
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/246602
+#EXTINF:0,CARACOL | CARACOL
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/246181
+#EXTINF:0,COLOMBIA | CARACOL INTERNACIONAL 
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/9722
+#EXTINF:0,COLOMBIA | RCN 
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/174779
+#EXTINF:0,COLOMBIA | RCN HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/132865
+#EXTINF:0,COLOMBIA | CANAL UNO
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/210268
+#EXTINF:0,COLOMBIA |  TELECAFE 
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/132869
+#EXTINF:0,COLOMBIA | WIN SPORTS
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/132887
+#EXTINF:0,COLOMBIA | CITY TV 
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/132711
+#EXTINF:0,COLOMBIA | TELEPACIFICO 
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/132873
+#EXTINF:0,COLOMBIA | TELECARIBE
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/133341
+#EXTINF:0,COLOMBIA | SEÑAL COLOMBIA 
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/132846
+#EXTINF:0,COLOMBIA | TELE ANTIOQUIA
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/159335
+#EXTINF:0,COLOMBIA | NTN24
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/237866
+#EXTINF:0,24/7 | DRAGON BALL
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/264641
+#EXTINF:0,24/7 | DRAGON BALL Z
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/264642
+#EXTINF:0,24/7 | DRAGON BALL SUPER
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/264643
+#EXTINF:0,24/7 | DRAGON BALL GT
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/264644
+#EXTINF:0,24/7 | COYOTE & CORRE CAMINO
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/264645
+#EXTINF:0,24/7 | DON GATO Y SU PANDILLA
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/264646
+#EXTINF:0,24/7 | EL CHAVO DEL OCHO
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/264647
+#EXTINF:0,24/7 | EL CHAPULIN COLORADO
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/264648
+#EXTINF:0,24/7 | FUTURAMA
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/264649
+#EXTINF:0,24/7 | GRAVITY FALL
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/264650
+#EXTINF:0,24/7 | LOS CABALLERO DEL ZODIACO
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/264651
+#EXTINF:0,24/7 | LOS PICAPIEDRAS
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/264652
+#EXTINF:0,24/7 | LOS SIMPSONS
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/264653
+#EXTINF:0,CHILE | 24HORAS
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/132670
+#EXTINF:0,CHILE | TNT SPORTS 3 HD 
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/174794
+#EXTINF:0,CHILE | TNT SPORTS 3
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/132673
+#EXTINF:0,CHILE | CDO BASICO
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/132675
+#EXTINF:0,CHILE | CDO PREMIUN
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/132676
+#EXTINF:0,CHILE | CHILEVISION HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/174792
+#EXTINF:0,CHILE | MEGA HD
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/132680
+#EXTINF:0,Chile | El 13 
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/133238
+#EXTINF:0,CHILE | TV CHILE 
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/173918
+#EXTINF:0,CHILE | CNN CHILE HD 
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/174903
+#EXTINF:0,CHILE | TVN HD 
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/4236/4236/62778
+#EXTINF:0,47 Ronin (2013)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256514.mkv
+#EXTINF:0,All the Old Knives (2022)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256515.mkv
+#EXTINF:0,Apollo 10½:  A Space Age Childhood (2022)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256517.mkv
+#EXTINF:0,Blade Runner 2049 (2017)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256520.mp4
+#EXTINF:0,Blade Runner (1982)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256521.mp4
+#EXTINF:0,Bull Shark (2022)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256522.mkv
+#EXTINF:0,Chappie (2015)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256525.mp4
+#EXTINF:0,Official Competition (2021)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256528.mkv
+#EXTINF:0,How to Train Your Dragon (2010)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256530.mp4
+#EXTINF:0,Dennis the Menace (1993)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256531.mp4
+#EXTINF:0,Dawn of the Planet of the Apes (2014)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256532.mkv
+#EXTINF:0,I Care a Lot (2021)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256533.mp4
+#EXTINF:0,Don't Tell a Soul (2020)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256534.mkv
+#EXTINF:0,Cop Out (2010)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256536.mp4
+#EXTINF:0,Dracula Untold (2014)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256537.mkv
+#EXTINF:0,Dream Horse (2021)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256538.mkv
+#EXTINF:0,Hubie Halloween (2020)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256539.mp4
+#EXTINF:0,The Giver (2014)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256540.mp4
+#EXTINF:0,The Tinder Swindler (2022)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256542.mp4
+#EXTINF:0,The Book of Eli (2010)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256543.mp4
+#EXTINF:0,El origen del Cielo (2015)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256544.mp4
+#EXTINF:0,Yogi Bear's All-Star Comedy Christmas Caper (1982)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256545.mp4
+#EXTINF:0,The Package (2018)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256546.mp4
+#EXTINF:0,The Titan (2018)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256548.mp4
+#EXTINF:0,Total Recall (2012)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256549.mp4
+#EXTINF:0,The One (2001)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256550.mp4
+#EXTINF:0,The Preacher (2021)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256551.mkv
+#EXTINF:0,The Highwaymen (2019)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256552.mp4
+#EXTINF:0,Ender's Game (2013)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256553.mkv
+#EXTINF:0,Des-Extinción (2019)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256557.mp4
+#EXTINF:0,Eurovision Song Contest: The Story of Fire Saga (2020)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256558.mp4
+#EXTINF:0,Sniper: Ghost Shooter (2016)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256559.mp4
+#EXTINF:0,Freaks (2019)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256560.mp4
+#EXTINF:0,Thunder Force (2021)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256561.mp4
+#EXTINF:0, Man! (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/58BnnYeQOTzdMBghZIH1tSH0REx.jpg" group-title="Action" - Game Over, Man! (2018)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256562.mp4
+#EXTINF:0,Godzilla 1985 (1985)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256564.mkv
+#EXTINF:0,Guardians of the Galaxy (2014)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256565.mkv
+#EXTINF:0,Halo: Nightfall (2014)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256566.mkv
+#EXTINF:0,Home (2015)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256567.mp4
+#EXTINF:0,How High 2 (2019)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256568.mp4
+#EXTINF:0,I Am Mother (2019)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256569.mp4
+#EXTINF:0, Frankenstein (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pQkJ1tNsKRvYhwbC8eztLElKrmS.jpg" group-title="Horror" - I, Frankenstein (2014)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256570.mp4
+#EXTINF:0,IO (2019)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256571.mp4
+#EXTINF:0,Illang: The Wolf Brigade (2018)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256572.mp4
+#EXTINF:0,A Haunted House 2 (2014)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256573.mp4
+#EXTINF:0,Invasion (2014)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256574.mp4
+#EXTINF:0,Invader ZIM: Enter the Florpus (2019)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256575.mp4
+#EXTINF:0,Jack N Jill
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256576.mp4
+#EXTINF:0,A Very Harold & Kumar Christmas (2011)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256579.mp4
+#EXTINF:0,The Forgotten Battle (2021)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256581.mp4
+#EXTINF:0,Españistán (La burbuja inmobiliaria) (2011)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256582.mp4
+#EXTINF:0,True Memoirs of an International Assassin (2016)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256583.mp4
+#EXTINF:0,Fun with Dick and Jane (2005)
+#EXTVLCOPT:network-caching=4000
+http://tvencasa.fun:2052/movie/4236/4236/256584.mp4
